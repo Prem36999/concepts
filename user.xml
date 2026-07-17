@@ -1,0 +1,17 @@
+<student>
+ <name>prem</name>
+ <email>prem@143.gmail.com</email>
+ <addresses>
+    <permaddress>
+       <doorno>123</doorno>
+       <street>kvp</street>
+       <city>tirupati</city>
+    </pemaddress>
+    <curentaddress>
+       <doorno>123</doorno>
+       <street>kvy</street>
+       <citt>hyd</city>
+
+ </addresses>
+
+</student>
