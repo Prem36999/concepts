@@ -1,18 +1,38 @@
-<student>
-   <name>prem</name>
-   <email>prem@143.gmail.com</email>
-   <addresses>
-      <permaddress>
-         <doorno>123</doorno>
-         <street>kvp</street>
-         <city>tirupati</city>
-      </pemaddress>
+<students>
+  <student>
+     <name>prem</name>
+     <email>prem@143.gmail.com</email>
+     <addresses>
+          <permaddress>
+              <doorno>123</doorno>
+              <street>kvp</street>
+              <city>tirupati</city>
+          </pemaddress>
+          <curentaddress>
+              <doorno>123</doorno>
+              <street>kvy</street>
+              <citt>hyd</city>
+          </curentaddress>
+      </addresses>
+
+  </student>
+  <student>
+     <name>prem</name>
+     <email>prem@143.gmail.com</email>
+     <addresses>
+           <permaddress>
+              <doorno>123</doorno>
+              <street>kvp</street>
+              <city>tirupati</city>
+           </pemaddress>
       
-      <curentaddress>
-         <doorno>123</doorno>
-         <street>kvy</street>
-         <citt>hyd</city>
+           <curentaddress>
+               <doorno>123</doorno>
+               <street>kvy</street>
+               <citt>hyd</city>
+            </curentaddress>   
 
- </addresses>
+        </addresses>
 
-</student>
+    </student>
+</students>
